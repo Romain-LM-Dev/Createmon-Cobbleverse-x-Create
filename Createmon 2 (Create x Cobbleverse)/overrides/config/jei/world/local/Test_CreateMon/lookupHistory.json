@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"cobblemonboxlink:box_link"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpletms:tr_painsplit"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"shinycookie:star_cookie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"shinycookie:burnt_star_cookie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon_utility:shinycard"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
