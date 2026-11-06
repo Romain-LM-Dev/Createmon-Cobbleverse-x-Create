@@ -6,7 +6,7 @@
 
 **Capturez. Construisez. Automatisez. Explorez.**
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE.md)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Modpack-green?logo=minecraft)](https://www.minecraft.net/)
 [![Modpack](https://img.shields.io/badge/Type-Modpack-orange)]()
 
