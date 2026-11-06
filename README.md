@@ -49,7 +49,7 @@ Le dépôt peut également contenir des fichiers de configuration et des métado
 
 CreateMon réunit des mods créés et maintenus par leurs auteurs respectifs. Un grand merci à eux ainsi qu'aux équipes et communautés qui font vivre les projets utilisés par le modpack.
 
-**La licence CC0 de ce dépôt ne remplace pas les licences des mods, logiciels, marques, textures, sons ou autres contenus tiers.** Chaque élément tiers reste soumis à ses propres conditions. Consultez les pages officielles et fichiers de licence des projets concernés avant toute redistribution.
+**La licence MIT de ce dépôt ne remplace pas les licences des mods, logiciels, marques, textures, sons ou autres contenus tiers.** Chaque élément tiers reste soumis à ses propres conditions. Consultez les pages officielles et fichiers de licence des projets concernés avant toute redistribution.
 
 ## Contributions
 
@@ -57,7 +57,7 @@ Les suggestions, signalements de bugs et contributions sont les bienvenus. Avant
 
 ## Licence
 
-Les éléments originaux de ce dépôt sont dédiés au domaine public dans la mesure permise par la loi, selon **CC0 1.0 Universal**. Consultez le fichier [LICENSE](LICENSE.md) pour le texte complet.
+Les éléments originaux de ce dépôt sont dédiés au domaine public dans la mesure permise par la loi, selon MIT license. Consultez le fichier [LICENSE](LICENSE.md) pour le texte complet.
 
 ---
 
