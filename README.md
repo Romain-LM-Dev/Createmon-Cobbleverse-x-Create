@@ -1,5 +1,11 @@
 <div align="center">
 
+🇫🇷 Français | 🇬🇧 [English](README.en.md)
+
+</div>
+
+<div align="center">
+
 <img src="assets/createmon-logo.png" alt="CreateMon – Create x CobbleVerse" width="650">
 
 # CreateMon 2 — Create x CobbleVerse
